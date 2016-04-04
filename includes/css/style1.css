@@ -1,0 +1,140 @@
+.navbar{
+  background: lightblue;
+  font-size: 15px;
+    /*padding-bottom: 50px;*/
+}
+.navbar-brand{
+  font-size: 35px;
+  font-family: 'PT Serif', serif;
+  /*padding: 13px 15x;*/
+}
+#myCarousel .item{
+  height:400px;
+  /*padding-top: 500px;*/
+}
+#myCarousel{
+  padding-top: 50px;
+}
+#myModal{
+  z-index: 50px;
+}
+.main
+  #slide1{
+    background: url('../../images/car1.jpg') top center no-repeat;
+  }
+  #slide2{
+    background: url('../../images/carsel2.jpg') top center no-repeat;
+  }
+  #slide3{
+    background: url('../../images/car3.jpg') top center no-repeat;
+  }
+#features{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#features img{
+  margin: 0 0 20px;
+}
+#m1{
+  font-family: 'Arvo', serif;
+}
+#features1{
+  background-color:#fff5e6;
+}
+
+#ss1{
+  text-align: center;
+  font-family: 'Arvo', serif;
+}
+#sp1{
+  font-family: 'Righteous', cursive;
+}
+#img08{
+  padding-left: 40px;
+  padding-top: 10px;
+}
+#features2{
+  background-color:#fff5e6;
+}
+#sp2{
+  padding-right: 10px;
+}
+#m11{
+  text-align: center;
+  padding-bottom: 20px;
+}
+#r1{
+  padding-left: 20px;
+}
+#r2{
+  padding-left: 20px;
+}
+#r3{
+  padding-left: 20px;
+}
+.k1{
+  padding-top: 10px;
+}
+.k2{
+  padding-top: 30px;
+}
+.k3{
+  padding-top: 30px;
+}
+#p11{
+  padding-left: 70px;
+  font-size: 20px;
+}
+#p12{
+  padding-left: 75px;
+  font-size: 20px;
+}
+#p13{
+  padding-left: 50px;
+  font-size: 20px;
+}
+#p21{
+  padding-left: 60px;
+  font-size: 20px;
+}
+#p22{
+  padding-left: 50px;
+  font-size: 20px;
+}
+#p23{
+  padding-left: 70px;
+  font-size: 20px;
+}
+#p31{
+  padding-left: 70px;
+  font-size: 20px;
+}
+#p32{
+  padding-left: 70px;
+  font-size: 20px;
+}
+#p33{
+  padding-left: 70px;
+  font-size: 20px;
+}
+#fo{
+  padding-left: 90px;
+}
+#f1{
+  padding-left: 80px;
+}
+#fc{
+  padding-left: 60px;
+}
+#tw{
+  padding-left: 10px;
+}
+#ln{
+  padding-left: 10px;
+}
+.footer{
+  background: lightblue;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
